@@ -1,4 +1,4 @@
-package com.company.exercises;
+package Exercises;
 import java.io.IOException;
 // Description
 /*

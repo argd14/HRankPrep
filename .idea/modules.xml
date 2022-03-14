@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HRankTestPrep.iml" filepath="$PROJECT_DIR$/HRankTestPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HRankPrep.iml" filepath="$PROJECT_DIR$/HRankPrep.iml" />
     </modules>
   </component>
 </project>

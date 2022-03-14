@@ -1,4 +1,4 @@
-package com.company.Algorithms.Sort;
+package Algorithms.Sort;
 
     // Java program for implementation of Bubble Sort
     class BubbleSort

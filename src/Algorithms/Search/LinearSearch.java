@@ -1,4 +1,4 @@
-package com.company.Algorithms.Search;
+package Algorithms.Search;
 
     // Description
     /*

@@ -1,4 +1,4 @@
-package com.company.exercises;
+package Exercises;
 
 import java.io.*;
 import java.util.*;

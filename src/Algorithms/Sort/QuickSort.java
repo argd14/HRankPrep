@@ -1,7 +1,6 @@
-package com.company.Algorithms.Sort;
-import java.io.*;
+package Algorithms.Sort;
 
-    // Java implementation of QuickSort
+// Java implementation of QuickSort
 // Description
 /*
 Like Merge Sort, QuickSort is a Divide and Conquer algorithm.

@@ -1,3 +1,3 @@
-# Hacker Rank exercise 
+# Hacker Rank exercises 
 
-## All the information gather in this Repo is from HackerRank Exercises and YouTube
+## All the information gather in this Repo is from GeekForGeeks, HackerRank Exercises and YouTube
